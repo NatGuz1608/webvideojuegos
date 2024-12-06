@@ -1,0 +1,652 @@
+
+/* Estilos generales para botones*/
+.btun {
+    font-family: "Montserrat", sans-serif;
+    color: white;
+    font-weight: 800;
+    font-size: 10;
+    background-color: transparent; 
+    border: transparent;
+    padding: 15px 40px;
+
+  }
+
+.btun2 {
+    font-family: "Montserrat", sans-serif;
+    color: rgb(0, 0, 0);
+    background-image: linear-gradient(to left, #ff66c4, #ffde59); 
+    font-weight: 800;
+    font-size: 10;
+    border: transparent;
+    border-radius: 30px;
+    padding: 15px 40px;
+
+  }
+
+  .btun22 {
+    font-family: "Montserrat", sans-serif;
+    color: rgb(0, 0, 0);
+    background-image: linear-gradient(to left, #ff66c4, #ffde59); 
+    font-weight: 800;
+    font-size: 10;
+    border: transparent;
+    border-radius: 30px;
+    padding: 20px 80px;
+
+  }
+
+  .btun3 {
+    font-family: "Montserrat", sans-serif;
+    color: rgb(0, 0, 0);
+    background-image: linear-gradient(to left, #0cc0df, #ffde59); 
+    font-weight: 800;
+    font-size: 15px;
+    border: transparent;
+    border-radius: 30px;
+    padding: 15px 40px;
+
+  }
+
+  .btun32 {
+    font-family: "Montserrat", sans-serif;
+    color: rgb(0, 0, 0);
+    background-image: linear-gradient(to left, #0cc0df, #ffde59); 
+    font-weight: 800;
+    font-size: 15px;
+    border: transparent;
+    border-radius: 30px;
+    padding: 15px 40px;
+    margin-top: 10px;
+
+  }
+
+
+
+
+/* Estilos generales textos y parrafos*/
+.parrafoestilo{
+    font-weight: 100;
+    padding-top: 100px;
+
+}
+
+.parrafocont {
+    text-decoration:underline;
+    color: #dbfc67;
+}
+
+.parrafoestilo2{
+    font-weight: 900;
+    font-size: 55px;
+    padding: 0;
+    margin: 0;
+}
+
+.parrafoestilo23{
+    font-weight: 800;
+    font-size: 60px;
+    text-align: center;
+    padding-top: 20px;
+    margin: 0;
+
+}
+
+.parrafoestilo234{
+    font-weight: 400;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 20px;
+    margin: 0;
+
+}
+
+
+.parrafoestilo3{
+    font-weight: 300;
+    padding-right: 230px;
+
+}
+
+.parrafoestilo4{
+    font-weight: 900;
+    font-size: 45px;
+    padding-bottom: 10px;
+
+}
+
+.parrafoestilo5{
+    font-weight: 800;
+    font-size: 37px;
+    padding-right: 230px;
+    padding: 0;
+    margin: 0;
+}
+
+.negrita{
+    font-weight: 700;
+}
+
+.negritae{
+    font-weight: 800;
+    font-size: 22px;
+    text-align: center;
+    padding: 0;
+}
+
+.italic {
+    font-style: italic;
+    font-weight: 700;
+  }
+
+.parrafo233{
+    padding: 10px;
+    width: 1000px;
+    color: white; 
+    text-align: center;
+
+}
+
+
+
+
+/* Estilos generales contenedores principales */
+.contenedor {
+    padding: 20px;
+    margin: 0%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.contenedor2 {
+    height: 60px;
+    text-align: center;
+}
+
+.columnaprin{
+    list-style: none;
+    display: inline-block;
+    padding:18px;
+}
+.columnaseg{
+    float: left;
+    margin-top: 20px;
+}
+.columnaseg a{
+
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 18px;
+}
+
+.opacidad{
+    color: rgba(114, 114, 114, 0.8); 
+}
+.colormenu{
+    color: white;
+}
+
+p {
+    width: 80%;
+
+}
+
+
+
+
+/* Estilos generales para contenedores principales */
+.contenedor31 {
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 100px;
+    margin-top: 25px;
+    margin-bottom: 30px;
+
+}
+
+
+
+.contenedor4 {
+    display: flex;
+    justify-content: center;
+    margin-left: 10%;
+    margin-top: 2%;
+    margin-bottom: 1%;
+}
+
+.precios{
+    font-size: 25px;
+    color: #eefb03;
+}
+
+
+
+
+/* Estilos generales de las imagenes*/
+
+.img4{
+    position: absolute;
+    height: 5px;
+    width: 5px;
+    margin-top:20px;
+    margin-left:1590px;
+}
+
+.img4_1{
+    height: 5px;
+    width: 5px;
+    margin-top:-170px;
+    margin-left:-850px;
+}
+
+.img1{
+
+    display: inline;
+    align-content: center;
+    padding: 28px 1px 98px 1px;
+    
+}
+
+.img1t{
+
+    display: inline;
+    align-content: center;
+    padding: 48px 1px 48px 1px;
+    font-weight: 650;
+    font-size: 25px;
+
+    
+}
+
+.ima11{
+    margin-top:-200px;
+    margin-right: -150px;
+    
+}
+
+
+
+
+/* Estilos adaptados a pie de pagina*/
+.piepa{
+    padding-left: 35px;
+}
+.piepae{
+    padding-top: 70px;
+}
+.pieaee{
+    padding-left: 35px;
+    padding-top: 60px;
+}
+
+
+
+/* INTERACCION GENERAL */
+
+
+/* Estilos generales NEW EDIT */
+/* Estilos generales */
+body {
+    font-family: "Montserrat", sans-serif;
+    background: url(img/FONDO.png) no-repeat center center fixed;
+    background-size: cover;
+    color: white;
+    margin: 0;
+}
+
+/* Estilos para botones */
+.btun, .btun2, .btun22, .btun3, .btun32 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 800;
+    border: none;
+    border-radius: 30px;
+    padding: 15px 40px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+/* Interactividad: hover en botones */
+.btun2:hover, .btun22:hover, .btun3:hover, .btun32:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.btun2:hover, .btun22:hover  {
+    background-color: 0;
+    transform: scale(1.05);
+}
+
+/* Menú de navegación */
+.columnaprin {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding: 18px;
+}
+.columnaseg a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 18px;
+    transition: color 0.3s;
+}
+
+.columnaseg a:hover {
+    color: rgba(255, 255, 255, 0.7);
+}
+
+/* Media query para pantallas de hasta 480px */
+@media (max-width: 480px) {
+    .contenedor31 {
+        flex-direction: column;
+        align-items: center;
+    }
+    .ima11 img {
+        width: 100%;
+        height: auto;
+    }
+    .btun, .btun2, .btun22, .btun3, .btun32 {
+        font-size: 12px;
+        padding: 10px 20px;
+      }
+    .parrafoestilo2 {
+        font-size: 30px;
+    }
+
+}
+
+
+/* Media query for devices with a max-width of 768px */
+@media (max-width: 768px) {
+    body {
+        font-size: 14px;
+        padding: 20px;
+    }
+    .contenedor {
+        flex-direction: column;
+        align-items: center;
+    }
+    .btun, .btun2, .btun22, .btun3, .btun32 {
+        font-size: 12px;
+        padding: 12px 30px;
+    }
+}
+
+
+/* Media query for devices with a max-width of 1024px */
+@media (max-width: 1024px) {
+    body {
+        font-size: 16px;
+        padding: 30px;
+    }
+    .contenedor {
+        flex-direction: column;
+        align-items: center;
+    }
+    .btun, .btun2, .btun22, .btun3, .btun32 {
+        font-size: 14px;
+        padding: 15px 35px;
+    }
+}
+
+
+
+
+
+/* Contenedores de servicios NEW EDIT */
+/* Contenedores de servicios */
+.contenedor3 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.columnaV {
+    flex: 1;
+    min-width: 280px;
+    margin: 20px;
+    padding-left: 70px;
+    padding-top: 70px;
+}
+
+.columnaV1 {
+    flex: 1;
+    padding-left: 50px;
+    margin: 20px;
+
+}
+
+/* Efecto hover en enlaces */
+.negrita, .italic {
+    transition: color 0.3s;
+}
+
+.negrita:hover, .italic:hover {
+    color: #ffde59;
+}
+
+
+
+/* Imagenes responsivas */
+.ima2 img {
+    width: 100%;
+    height: auto;
+}
+
+/* Imagenes responsivas */
+
+.ima2_1 img {
+    width: 70%;
+    height: auto;
+    margin-top:-100px;
+    margin-right: -150px;
+}
+
+.ima2_3 img {
+    width: 60%;
+    height: auto;
+    margin-top:-10px;
+    margin-right: -150px;
+}
+
+
+
+/* Responsividad para pantallas pequeñas */
+@media (max-width: 768px) {
+    .contenedor3 {
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+/* Estilos de planes  NEW EDIT */
+/* Video responsivo */
+.video {
+    max-width: 100%;
+    height: auto;
+    padding-top: 50px;
+}
+
+/* Estilos de planes */
+.contenedor4 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.columnaM {
+    width: 300px;
+    text-align: start;
+}
+
+/* Separadores de planes */
+.vl {
+    border-left: 2px solid white;
+    height: 220px;
+    margin: 0 20px;
+}
+
+/* Pseudo-clases hover en botones */
+.btun3, .btun32 {
+    background-color: #0cc0df;
+    color: black;
+    border: none;
+    padding: 15px 40px;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+.btun3:hover, .btun32:hover {
+    background-color: #ffde59;
+    transform: scale(1.05);
+}
+
+/* Enlaces interactivos */
+.contact-link:hover {
+    color: #ffde59;
+}
+
+/* Responsividad para dispositivos pequeños */
+@media (max-width: 768px) {
+    .contenedor4 {
+        flex-direction: column;
+        align-items: center;
+    }
+    .vl {
+        display: none;
+    }
+}
+
+
+
+
+
+
+
+/* Estilos de contacto  NEW EDIT */
+/* Estilos específicos para formulario y contenedores */
+
+.contenedor234 {
+    display: flex;
+    align-content: center;
+    text-align: start;
+}
+
+.columna {
+    padding-top: 50px;
+    padding-left: 610px;
+    margin: 0 5px;
+}
+
+.columna4 {
+    padding-right: 100px;
+
+}
+
+/* Responsividad */
+@media (max-width: 768px) {
+    .contenedor234 {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .columna, .columna4 {
+        margin: 10px 0;
+        width: 100%;
+    }
+}
+
+/* Formulario de contacto */
+.form-contacto {
+    width: 400px;
+    padding: 30px;
+    border-radius: 4px;
+    box-shadow: 7px 13px 37px #000;
+}
+
+.form-contacto h4 {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.controls {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    width: 100%;
+    background: #000000;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #dbfc67; 
+    font-size: 15px;
+    color: white;
+}
+
+textarea {
+    height: 30px;
+    width: 100%;
+    resize: none;
+}
+.controls::placeholder {
+    color: #888;
+}
+
+.form-contacto p {
+    text-align: center;
+    font-size: 18px;
+    margin: 16px 0;
+}
+
+.form-contacto a {
+    color: white;
+    text-decoration: none;
+}
+
+.form-contacto a:hover {
+    text-decoration: underline;
+}
+
+/* Botones con interactividad */
+.botons {
+     font-family: "Montserrat", sans-serif;
+    background-image: linear-gradient(to left, #0cc0df, #80ff59); 
+    color: rgb(0, 0, 0);
+    font-weight: 800;
+    transition: background-color 0.3s;
+    border: transparent;
+    border-radius: 30px;
+    padding: 20px 80px;
+    cursor: pointer;
+    font-size: 15px;
+
+
+}
+
+.botons:hover {
+    background-color: 0;
+    transform: scale(1.05);
+}
+
+/* Responsividad */
+@media (max-width: 768px) {
+    .contenedor-contacto {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .form-contacto {
+        width: 90%;
+    }
+}
